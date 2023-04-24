@@ -5,6 +5,6 @@ Teacher Ícaro Vasconselos
 
 ##
 
-Technologies used
+# Technologies used
 
 • MySQL database
